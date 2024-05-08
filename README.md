@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cucuric
+- 👀 I’m interested in coding and hunting
+- 🌱 I’m currently learning: C#, Java, Python
+- 📫 Reach me at: cucuric.david@gmail.com
