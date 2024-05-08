@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Cucuric
+- 👋 Hi, I’m David Čučurić
+- :mortar_board: Computer Tehnician
+- :school: Second-year student of Bjelovar University of Applied Sciences
 - 👀 I’m interested in coding and hunting
 - 🌱 I’m currently learning: C#, Java, Python
-- 📫 Reach me at: cucuric.david@gmail.com
+- :e-mail: Reach me at: cucuric.david@gmail.com
